@@ -32,7 +32,7 @@ Sección dedicada a la educación ambiental:
 📦 Instalación y Despliegue
 1.	Clonar el repositorio:
 Bash
-git clone https://github.com/TuUsuario/EcoGuican-App.git
+git clone https://github.com/AnkokuNo22/EcoGuican-App
 2.	Instalar dependencias:
 Bash
 npm install
